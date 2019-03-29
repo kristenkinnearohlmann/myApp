@@ -1,0 +1,11 @@
+C:\Users\kkinnea\Dropbox\kristenkinnearohlmann\projects\dotNetCore\myApp\bin\MCD\Debug\netcoreapp2.1\myApp.deps.json
+C:\Users\kkinnea\Dropbox\kristenkinnearohlmann\projects\dotNetCore\myApp\bin\MCD\Debug\netcoreapp2.1\myApp.runtimeconfig.json
+C:\Users\kkinnea\Dropbox\kristenkinnearohlmann\projects\dotNetCore\myApp\bin\MCD\Debug\netcoreapp2.1\myApp.runtimeconfig.dev.json
+C:\Users\kkinnea\Dropbox\kristenkinnearohlmann\projects\dotNetCore\myApp\bin\MCD\Debug\netcoreapp2.1\myApp.dll
+C:\Users\kkinnea\Dropbox\kristenkinnearohlmann\projects\dotNetCore\myApp\bin\MCD\Debug\netcoreapp2.1\myApp.pdb
+C:\Users\kkinnea\Dropbox\kristenkinnearohlmann\projects\dotNetCore\myApp\obj\MCD\Debug\netcoreapp2.1\myApp.csprojAssemblyReference.cache
+C:\Users\kkinnea\Dropbox\kristenkinnearohlmann\projects\dotNetCore\myApp\obj\MCD\Debug\netcoreapp2.1\myApp.csproj.CoreCompileInputs.cache
+C:\Users\kkinnea\Dropbox\kristenkinnearohlmann\projects\dotNetCore\myApp\obj\MCD\Debug\netcoreapp2.1\myApp.AssemblyInfoInputs.cache
+C:\Users\kkinnea\Dropbox\kristenkinnearohlmann\projects\dotNetCore\myApp\obj\MCD\Debug\netcoreapp2.1\myApp.AssemblyInfo.cs
+C:\Users\kkinnea\Dropbox\kristenkinnearohlmann\projects\dotNetCore\myApp\obj\MCD\Debug\netcoreapp2.1\myApp.dll
+C:\Users\kkinnea\Dropbox\kristenkinnearohlmann\projects\dotNetCore\myApp\obj\MCD\Debug\netcoreapp2.1\myApp.pdb
